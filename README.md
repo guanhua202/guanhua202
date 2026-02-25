@@ -19,7 +19,7 @@
 - Основы Linux и командной строки
 - Основы сетевой безопасности (OSI, TCP/IP, протоколы, порты)
 - Введение в OSINT, криптографию и социальную инженерию
-- Решённые задачи по Python [ЗАДАЧИ](https://github.com/script0x0kiddy/Python-Tasks)
+- Решение [задач](https://github.com/script0x0kiddy/Python-Tasks) по Python
 
 ## 🌱 Сейчас учусь:
 - Прохожу курс по Python ["Поколение Python": курс для начинающих](https://stepik.org/course/58852)
