@@ -1,4 +1,34 @@
-# 👋 Ассаламу Алейкум вежри (Мир вашему дому)
+# 👋 Welcome!
+
+I am interested in **IT** and passionate about learning the fundamentals of information security, networking, ethical hacking, and digital hygiene.
+
+## 🧠 My Interests:
+- Python programming
+- Systematic thinking and discipline
+- Ethical Hacking
+- CTF (Capture The Flag) practices
+
+## 📜 Certificates:
+- ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
+- ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
+- ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
+
+## 🛠️ Skills I’m Developing:
+- Linux and command line fundamentals
+- Basics of network security (OSI, TCP/IP, protocols, ports)
+- Introduction to OSINT, cryptography, and social engineering
+- Solving Python [tasks](https://github.com/script0x0kiddy/Python-Tasks)
+
+## 🌱 Currently Learning:
+- Taking the Python course **["Generation Python": Beginner Course](https://stepik.org/course/58852)**
+
+## 🔗 Useful Links:
+- [TryHackMe Profile](https://tryhackme.com/p/script0x0kiddy)
+- [Stepik Profile](https://stepik.org/users/543991756/profile)
+
+> 🚧 Profile under development: I continue learning and expanding my knowledge in IT. Follow to track my progress!
+--------------------------------------------------------------------------
+# 👋 Добро пожаловать!
 
 Я интересуюсь **IT**, увлечён изучением основ защиты информации, сетей, этичного взлома и цифровой гигиены.
 
