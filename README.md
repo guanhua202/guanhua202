@@ -18,7 +18,6 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 - Linux and command line fundamentals
 - Basics of network security (OSI, TCP/IP, protocols, ports)
 - Introduction to OSINT, cryptography, and social engineering
-- Solving Python [tasks](https://github.com/script0x0kiddy/Python-Tasks)
 
 ## 🌱 Currently Learning:
 - Taking the Python course **["Python Generation": a course for advanced students](https://stepik.org/course/68343)**
