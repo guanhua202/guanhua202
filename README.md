@@ -29,13 +29,12 @@
 --------------------------------------------------------------------------
 # Hey, what's up?
 
-I am interested in **IT** and passionate about learning the fundamentals of information security, networking, ethical hacking, and digital hygiene.
+I’m into IT, really passionate about learning Python, and in the past I was a total tryhard no-life on TryHackMe (it was insane / no joke).
 
 ## 🧠 My Interests:
 - Python programming
-- Systematic thinking and discipline
-- Ethical Hacking
-- CTF (Capture The Flag) practices
+- Used to be into infosec
+- Tried my hand at capture the flag back in the day
 
 ## 📜 Certificates:
 - ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
@@ -44,9 +43,7 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 - ✅ [Python Generation: course for beginners](https://stepik.org/cert/3152100?lang=en)
 
 ## 🛠️ Skills I’m Developing:
-- Linux and command line fundamentals
-- Basics of network security (OSI, TCP/IP, protocols, ports)
-- Introduction to OSINT, cryptography, and social engineering
+- Actively leveling up my Pohuism skill — highly recommend it.
 
 ## 🌱 Currently Learning:
 - Taking the Python course **["Python Generation": a course for advanced students](https://stepik.org/course/68343)**
@@ -55,4 +52,4 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 - [TryHackMe Profile](https://tryhackme.com/p/script0x0kiddy)
 - [Stepik Profile](https://stepik.org/users/543991756/profile)
 
-> 🚧 Profile under development: I continue learning and expanding my knowledge in IT. Follow to track my progress!
+> 🚧 Profile under construction: I continue to degrade and stop giving a damn about IT knowledge. Don't subscribe — so you can forget me in 0.1 seconds.
