@@ -1,4 +1,4 @@
-# 👋 Welcome!
+# Welcome!
 
 I am interested in **IT** and passionate about learning the fundamentals of information security, networking, ethical hacking, and digital hygiene.
 
@@ -28,7 +28,7 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 
 > 🚧 Profile under development: I continue learning and expanding my knowledge in IT. Follow to track my progress!
 --------------------------------------------------------------------------
-# 👋 Добро пожаловать!
+# Добро пожаловать!
 
 Я интересуюсь **IT**, увлечён изучением основ защиты информации, сетей, этичного взлома и цифровой гигиены.
 
