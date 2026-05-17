@@ -1,3 +1,32 @@
+# Дароу, как дела?
+
+Я интересуюсь **IT**, увлечён изучением языка программирования Python, в прошлом люто задротил на TryHackMe (жесть.)
+
+## 🧠 Мои интересы:
+- Программирование на Python
+- В прошлом информационная безопасность
+- В прошлом захват флага
+  
+## 📜 Сертификаты:
+
+- ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
+- ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
+- ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
+- ✅ [Поколение Python: курс для начинающих](https://stepik.org/cert/3152100)
+
+
+## 🛠️ Навыки, которые я развиваю:
+- Активно развиваю навык Pohuism, recomenduyu
+
+## 🌱 Сейчас учусь:
+- Прохожу курс по Python **["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)**
+
+## 🔗 Полезные ссылки:
+- [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
+- [Stepik профиль](https://stepik.org/users/543991756/profile)
+
+> 🚧 Профиль в разработке: я продолжаю деградировать и забивать на знания в IT. Не Подписывайтесь, чтобы забыть меня через 0.1 секунду
+--------------------------------------------------------------------------
 # Hey, what's up?
 
 I am interested in **IT** and passionate about learning the fundamentals of information security, networking, ethical hacking, and digital hygiene.
@@ -27,32 +56,3 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 - [Stepik Profile](https://stepik.org/users/543991756/profile)
 
 > 🚧 Profile under development: I continue learning and expanding my knowledge in IT. Follow to track my progress!
---------------------------------------------------------------------------
-# Дароу, как дела?
-
-Я интересуюсь **IT**, увлечён изучением языка программирования Python, в прошлом люто задротил на TryHackMe (жесть.)
-
-## 🧠 Мои интересы:
-- Программирование на Python
-- В прошлом информационная безопасность
-- В прошлом захват флага
-  
-## 📜 Сертификаты:
-
-- ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
-- ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
-- ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
-- ✅ [Поколение Python: курс для начинающих](https://stepik.org/cert/3152100)
-
-
-## 🛠️ Навыки, которые я развиваю:
-- Активно развиваю навык Pohuism, recomenduyu
-
-## 🌱 Сейчас учусь:
-- Прохожу курс по Python **["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)**
-
-## 🔗 Полезные ссылки:
-- [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
-- [Stepik профиль](https://stepik.org/users/543991756/profile)
-
-> 🚧 Профиль в разработке: я продолжаю деградировать и забивать на знания в IT. Не Подписывайтесь, чтобы забыть меня через 0.1 секунду
