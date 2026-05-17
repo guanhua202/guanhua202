@@ -1,4 +1,4 @@
-# Welcome!
+# Hey, what's up?
 
 I am interested in **IT** and passionate about learning the fundamentals of information security, networking, ethical hacking, and digital hygiene.
 
@@ -28,15 +28,14 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 
 > 🚧 Profile under development: I continue learning and expanding my knowledge in IT. Follow to track my progress!
 --------------------------------------------------------------------------
-# Добро пожаловать!
+# Дароу, как дела?
 
-Я интересуюсь **IT**, увлечён изучением основ защиты информации, сетей, этичного взлома и цифровой гигиены.
+Я интересуюсь **IT**, увлечён изучением языка программирования Python, в прошлом люто задротил на TryHackMe (жесть.)
 
 ## 🧠 Мои интересы:
 - Программирование на Python
-- Системность и дисциплина
-- Этичный взлом (Ethical Hacking)
-- CTF (Capture The Flag) практики
+- В прошлом информационная безопасность
+- В прошлом захват флага
   
 ## 📜 Сертификаты:
 
@@ -47,9 +46,7 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 
 
 ## 🛠️ Навыки, которые я развиваю:
-- Основы Linux и командной строки
-- Основы сетевой безопасности (OSI, TCP/IP, протоколы, порты)
-- Введение в OSINT, криптографию и социальную инженерию
+- Активно развиваю навык Pohuism, recomenduyu
 
 ## 🌱 Сейчас учусь:
 - Прохожу курс по Python **["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)**
@@ -58,4 +55,4 @@ I am interested in **IT** and passionate about learning the fundamentals of info
 - [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
 - [Stepik профиль](https://stepik.org/users/543991756/profile)
 
-> 🚧 Профиль в разработке: я продолжаю учиться и пополнять свои знания в IT. Подписывайтесь, чтобы следить за прогрессом!
+> 🚧 Профиль в разработке: я продолжаю деградировать и забивать на знания в IT. Не Подписывайтесь, чтобы забыть меня через 0.1 секунду
