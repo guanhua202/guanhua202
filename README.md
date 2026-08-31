@@ -4,7 +4,7 @@
 
 ## 🧠 Мои интересы:
 - Программирование на Python
-- В прошлом информационная безопасность
+- Информационная безопасность
 - В прошлом захват флага
   
 ## 📜 Сертификаты:
@@ -33,7 +33,7 @@ I’m into IT, really passionate about learning Python, and in the past I was a 
 
 ## 🧠 My Interests:
 - Python programming
-- Used to be into infosec
+- Infosec
 - Tried my hand at capture the flag back in the day
 
 ## 📜 Certificates:
