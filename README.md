@@ -13,6 +13,7 @@
 - ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
 - ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
 - ✅ [Поколение Python: курс для начинающих](https://stepik.org/cert/3152100)
+- ✅ [Поколение Python: курс для продвинутых] (https://stepik.org/cert/3304651)
 
 
 ## 🛠️ Навыки, которые я развиваю:
@@ -42,6 +43,7 @@ I’m interested in **IT**, I’m passionate about Python, and in the past I was
 - ✅ [CyberSecurity 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRQKCYRQND.pdf)
 - ✅ [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U95VGKBWS1.pdf)
 - ✅ [Python Generation: course for beginners](https://stepik.org/cert/3152100?lang=en)
+- ✅ [Python Generation: Advanced Course] (https://stepik.org/cert/3304651)
 
 ## 🛠️ Skills I’m Developing:
 - Actively leveling up my Pohuism skill — highly recommend it.
