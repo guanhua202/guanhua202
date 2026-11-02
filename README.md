@@ -36,7 +36,7 @@ I’m interested in **IT**, I’m passionate about Python, and in the past I was
 ## 🧠 My Interests:
 - Python programming
 - Infosec
-- Tried my hand at capture the flag back in the day
+- In the past, the capture of the flag
 
 ## 📜 Certificates:
 - ✅ [Pre-Security Certificate – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BMRMLNLN5T.pdf)
