@@ -21,7 +21,7 @@
 - Спокойствие
 
 ## 🌱 Сейчас учусь:
-- Прохожу курс по Python **["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)**
+- Прохожу курс по Python **["Поколение Python": курс для профессионалов](https://stepik.org/course/82541)**
 
 ## 🔗 Полезные ссылки:
 - [TryHackMe профиль](https://tryhackme.com/p/script0x0kiddy)
@@ -49,7 +49,7 @@ I’m interested in **IT**, I’m passionate about Python, and in the past I was
 - Actively leveling up my Pohuism skill — highly recommend it.
 
 ## 🌱 Currently Learning:
-- Taking the Python course **["Python Generation": a course for advanced students](https://stepik.org/course/68343)**
+- Taking the Python course **["Python Generation": a course for professionals](https://stepik.org/course/82541)**
 
 ## 🔗 Useful Links:
 - [TryHackMe Profile](https://tryhackme.com/p/script0x0kiddy)
